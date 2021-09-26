@@ -1,3 +1,4 @@
 Comprobar cambios en repositorio local
-	Comprobar que f2 se encuentra en .gitignore
+	Comprobar que f2 se encuentra en .gitignore (fallido)
+	Comprobar que f2 se encuentra en .gitignore de nuevo
 
